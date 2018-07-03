@@ -1,0 +1,21 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#showImage{
+    padding: 0;
+}
+
+#campground_deleteform, #comment_deleteform {
+    display: inline;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
